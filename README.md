@@ -13,8 +13,11 @@
 ### 잡플래닛
  * 소속 : 브레인커머스
  * 역할 : 안드로이드 앱 개발
- * 사용기술 :
- 
+ * 사용기술
+  - Kotlin, Firebase(Crashlytics), Google InApp Purchase, Google(Firebase) Analytics
+  - Network : Retrofit, OkHttp3, Newrelic
+  - Architecture : RxAndroid, MVP/MVVM, AAC ViewModel + Databinding
+  - Library : Glide, Gson, ButterKnife, Dagger2, ExoPlayer, HIChart
  
 ![](https://github.com/snowpero/resume/blob/master/image/jp_1.png)
 ![](https://github.com/snowpero/resume/blob/master/image/jp_2.png)
@@ -25,7 +28,10 @@
 ### 11번가 쇼킹딜
  * 소속 : SK플래닛
  * 역할 : 안드로이드 앱 개발
- * 사용기술
+ * 사용기술 : Gson, Volley, Glide, Google Analytics
+ * 설명
+  - 11번가 최초 내부 개발 100% 앱
+  - 초기 개발부터 참여
  
 ![](https://github.com/snowpero/resume/blob/master/image/sd_1.png)
 ![](https://github.com/snowpero/resume/blob/master/image/sd_2.png)
@@ -36,7 +42,7 @@
 ### 11번가
  * 소속 : SK플래닛
  * 역할 : 안드로이드 앱 개발
- * 사용기술
+ * 사용기술 : Volley, Gson, Google Analytics
  
 ![](https://github.com/snowpero/resume/blob/master/image/11st_1.png)
 ![](https://github.com/snowpero/resume/blob/master/image/11st_2.png)
