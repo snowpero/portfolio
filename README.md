@@ -113,7 +113,7 @@
 ##### GrimMoa (https://play.google.com/store/apps/details?id=com.ninis.grimmoa)
  * 설명
     * Ruby on rails를 이용해 웹 크롤링
-    * 각 커뮤니티의 사진 게시판을 크롤링 후 한꺼번에 모아서 보여줌
+    *  커뮤니티의 사진 게시판을 크롤링 후 한꺼번에 모아서 보여줌
     
 ##### CoinBot (https://t.me/CoinNis_bot)
  * 설명
