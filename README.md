@@ -6,7 +6,7 @@
 4. 셀러오피스
 5. 삼성전자 DMC연구소 HomeScreen Launcher
 6. 일본 Sharp전자 VideoPlayer
-7. ETRI TAXEL = Haptic Editor
+7. ETRI TAXEL - Haptic Editor
 8. 개인프로젝트
 
 # 프로젝트
