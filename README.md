@@ -20,6 +20,12 @@
    * Network : Retrofit, OkHttp
    * Architecture : RxAndroid, AAC ViewModel + Databinding
    * Library : Glide, Gson, Dagger, Epoxy(AirBnB), Room
+   
+![](https://github.com/snowpero/portfolio/blob/master/image/tabling_0.webp)
+![](https://github.com/snowpero/portfolio/blob/master/image/tabling_0_1.webp)
+![](https://github.com/snowpero/portfolio/blob/master/image/tabling_1.webp)
+![](https://github.com/snowpero/portfolio/blob/master/image/tabling_2.webp)
+![](https://github.com/snowpero/portfolio/blob/master/image/tabling_3.webp)
 
 ### 잡플래닛 (https://play.google.com/store/apps/details?id=com.jobplanet.kr.android)
  * 소속 : 브레인커머스
