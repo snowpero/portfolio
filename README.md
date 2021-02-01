@@ -21,6 +21,12 @@
    * Architecture : RxAndroid, AAC ViewModel + Databinding
    * Library : Glide, Gson, Dagger, Epoxy(AirBnB), Room
 
+![](https://github.com/snowpero/portfolio/blob/master/image/tabling_0.png)
+![](https://github.com/snowpero/portfolio/blob/master/image/tabling_0_1.png)
+![](https://github.com/snowpero/portfolio/blob/master/image/tabling_1.png)
+![](https://github.com/snowpero/portfolio/blob/master/image/tabling_2.png)
+![](https://github.com/snowpero/portfolio/blob/master/image/tabling_3.png)
+
 ### 잡플래닛 (https://play.google.com/store/apps/details?id=com.jobplanet.kr.android)
  * 소속 : 브레인커머스
  * 역할 : 안드로이드 앱 개발
