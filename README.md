@@ -11,6 +11,16 @@
 9. 개인프로젝트
 
 # 프로젝트
+### 테이블링 (https://play.google.com/store/apps/details?id=com.mealant.tabling)
+
+ * 소속 : 테이블링
+ * 역할 : 안드로이드 앱 개발
+ * 사용기술
+   * Kotlin, Firebase(Crashlytics, Analytics, App Distribution)
+   * Network : Retrofit, OkHttp
+   * Architecture : RxAndroid, AAC ViewModel + Databinding
+   * Library : Glide, Gson, Dagger, Epoxy(AirBnB), Room
+
 ### 잡플래닛 (https://play.google.com/store/apps/details?id=com.jobplanet.kr.android)
  * 소속 : 브레인커머스
  * 역할 : 안드로이드 앱 개발
