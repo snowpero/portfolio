@@ -27,6 +27,15 @@
 ![](https://github.com/snowpero/portfolio/blob/master/image/tabling_2.png)
 ![](https://github.com/snowpero/portfolio/blob/master/image/tabling_3.png)
 
+### 테이블링 매장용
+
+ * 소속 : 테이블링
+ * 역할 : 안드로이드 앱 유지 보수
+ * 매장용 앱
+    * 테이블링(대기용) : https://play.google.com/store/apps/details?id=com.mealant.tabling.admin
+    * 테이블링(예약용) : https://play.google.com/store/apps/details?id=com.mealant.simpletable.admin.app
+    * 테이블링 스타터 : https://play.google.com/store/apps/details?id=com.mealant.tabling.launcher
+
 ### 잡플래닛 (https://play.google.com/store/apps/details?id=com.jobplanet.kr.android)
  * 소속 : 브레인커머스
  * 역할 : 안드로이드 앱 개발
