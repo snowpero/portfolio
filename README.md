@@ -1,5 +1,6 @@
 # 목차
 
+0. 케이에스티모빌리티
 1. 테이블링
 2. 잡플래닛
 3. 11번가 쇼킹딜
@@ -11,6 +12,17 @@
 9. 개인프로젝트
 
 # 프로젝트
+### 마카롱택시 기사님 (https://play.google.com/store/apps/details?id=kst.macaron.chauffeur)
+
+- 소속 : 케이에스티모빌리티
+- 역할 : 안드로이드 앱 개발
+- 사용기술
+    - Kotlin, Firebase(Crashlytics, App Distribution), Sentry
+    - Network : Retrofit, OkHttp, gRPC
+    - Architecture : Coroutine, AAC ViewModel + Databinding(MVVM)
+    - Library : Glide, Hilt, Gson
+    - Etc : Appium Test
+
 ### 테이블링 (https://play.google.com/store/apps/details?id=com.mealant.tabling)
 
  * 소속 : 테이블링
