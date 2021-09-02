@@ -1,15 +1,15 @@
 # 목차
 
-0. 케이에스티모빌리티
-1. 테이블링
-2. 잡플래닛
-3. 11번가 쇼킹딜
-4. 11번가
-5. 셀러오피스
-6. 삼성전자 DMC연구소 HomeScreen Launcher
-7. 일본 Sharp전자 VideoPlayer
-8. ETRI TAXEL - Haptic Editor
-9. 개인프로젝트
+1. 케이에스티모빌리티
+2. 테이블링
+3. 잡플래닛
+4. 11번가 쇼킹딜
+5. 11번가
+6. 셀러오피스
+7. 삼성전자 DMC연구소 HomeScreen Launcher
+8. 일본 Sharp전자 VideoPlayer
+9. ETRI TAXEL - Haptic Editor
+10. 개인프로젝트
 
 # 프로젝트
 ### 마카롱택시 기사님 (https://play.google.com/store/apps/details?id=kst.macaron.chauffeur)
@@ -22,6 +22,14 @@
     - Architecture : Coroutine, AAC ViewModel + Databinding(MVVM)
     - Library : Glide, Hilt, Gson
     - Etc : Appium Test
+
+![](https://github.com/snowpero/portfolio/blob/master/image/kstm_1.png)
+![](https://github.com/snowpero/portfolio/blob/master/image/kstm_2.png)
+![](https://github.com/snowpero/portfolio/blob/master/image/kstm_3.png)
+![](https://github.com/snowpero/portfolio/blob/master/image/kstm_5.png)
+![](https://github.com/snowpero/portfolio/blob/master/image/kstm_6.png)
+![](https://github.com/snowpero/portfolio/blob/master/image/kstm_7.png)
+![](https://github.com/snowpero/portfolio/blob/master/image/kstm_8.png)
 
 ### 테이블링 (https://play.google.com/store/apps/details?id=com.mealant.tabling)
 
