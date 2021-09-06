@@ -21,7 +21,7 @@
     - Network : Retrofit, OkHttp, gRPC
     - Architecture : Coroutine, AAC ViewModel + Databinding(MVVM)
     - Library : Glide, Hilt, Gson
-    - Etc : Appium Test
+    - Etc : Appium Test(테스트 자동화)
 
 ![](https://github.com/snowpero/portfolio/blob/master/image/kstm_1.png)
 ![](https://github.com/snowpero/portfolio/blob/master/image/kstm_2.png)
