@@ -31,6 +31,8 @@
 ![](https://github.com/snowpero/portfolio/blob/master/image/kstm_7.png)
 ![](https://github.com/snowpero/portfolio/blob/master/image/kstm_8.png)
 
+![](https://github.com/snowpero/portfolio/blob/master/video/appium_test.mp4)
+
 ### 테이블링 (https://play.google.com/store/apps/details?id=com.mealant.tabling)
 
  * 소속 : 테이블링
