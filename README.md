@@ -19,9 +19,9 @@
 - 사용기술
     - Kotlin, Firebase(Crashlytics, App Distribution), Sentry
     - Network : Retrofit, OkHttp, gRPC
-    - Architecture : Coroutine, AAC ViewModel + Databinding(MVVM)
-    - Library : Glide, Hilt, Gson
-    - Etc : Appium Test(테스트 자동화)
+    - Architecture : Coroutine, AAC ViewModel + Databinding(MVVM), Hilt(DI)
+    - Library : Glide, Gson, INavi Navigation
+    - Etc : Appium Test(테스트 자동화), Python
 
 ![](https://github.com/snowpero/portfolio/blob/master/image/kstm_1.png)
 ![](https://github.com/snowpero/portfolio/blob/master/image/kstm_2.png)
