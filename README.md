@@ -33,7 +33,8 @@
 
 - Appium 테스트 동영상
 
-[![appium_test](https://github.com/snowpero/portfolio/blob/master/image/appium_test_thumbnail.png)](https://vimeo.com/598737349 "appium_test")
+https://user-images.githubusercontent.com/9444173/132312701-ef60dfd7-dca9-4edf-b986-55ecff96b729.mp4
+
 
 ### 테이블링 (https://play.google.com/store/apps/details?id=com.mealant.tabling)
 
