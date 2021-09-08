@@ -26,10 +26,6 @@
 ![](https://github.com/snowpero/portfolio/blob/master/image/kstm_1.png)
 ![](https://github.com/snowpero/portfolio/blob/master/image/kstm_2.png)
 ![](https://github.com/snowpero/portfolio/blob/master/image/kstm_3.png)
-![](https://github.com/snowpero/portfolio/blob/master/image/kstm_5.png)
-![](https://github.com/snowpero/portfolio/blob/master/image/kstm_6.png)
-![](https://github.com/snowpero/portfolio/blob/master/image/kstm_7.png)
-![](https://github.com/snowpero/portfolio/blob/master/image/kstm_8.png)
 
 - Appium 테스트 동영상
 
