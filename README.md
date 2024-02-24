@@ -18,11 +18,18 @@
 - 소속 : 레벨 13
 - 역할 : 안드로이드 앱 개발
 - 사용기술
-    - Kotlin, Firebase(Crashlytics, App Distribution), Clean Architecture
+    - Kotlin, Firebase(Crashlytics, App Distribution, RemoteConfig), Clean Architecture
     - Network : Retrofit, OkHttp
     - Architecture : Compose, Coroutine, AAC ViewModel + Databinding(MVVM), Hilt(DI)
     - Library : Glide, Coil, Gson, Fastlane, Lottie
 
+![](https://github.com/snowpero/portfolio/blob/master/image/lookpin_1.png)
+![](https://github.com/snowpero/portfolio/blob/master/image/lookpin_2.png)
+![](https://github.com/snowpero/portfolio/blob/master/image/lookpin_3.png)
+![](https://github.com/snowpero/portfolio/blob/master/image/lookpin_4.png)
+![](https://github.com/snowpero/portfolio/blob/master/image/lookpin_5.png)
+![](https://github.com/snowpero/portfolio/blob/master/image/lookpin_6.png)
+![](https://github.com/snowpero/portfolio/blob/master/image/lookpin_7.png)
 
 
 ### 마카롱택시 기사님 (https://play.google.com/store/apps/details?id=kst.macaron.chauffeur)
