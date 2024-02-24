@@ -1,17 +1,30 @@
 # 목차
 
-1. 케이에스티모빌리티
-2. 테이블링
-3. 잡플래닛
-4. 11번가 쇼킹딜
-5. 11번가
-6. 셀러오피스
-7. 삼성전자 DMC연구소 HomeScreen Launcher
-8. 일본 Sharp전자 VideoPlayer
-9. ETRI TAXEL - Haptic Editor
-10. 개인프로젝트
+1. 레벨13 - 룩핀
+2. 케이에스티모빌리티
+3. 테이블링
+4. 잡플래닛
+5. 11번가 쇼킹딜
+6. 11번가
+7. 셀러오피스
+8. 삼성전자 DMC연구소 HomeScreen Launcher
+9. 일본 Sharp전자 VideoPlayer
+10. ETRI TAXEL - Haptic Editor
+11. 개인프로젝트
 
 # 프로젝트
+### 룩핀 (https://play.google.com/store/apps/details?id=com.mozzet.lookpin)
+
+- 소속 : 레벨 13
+- 역할 : 안드로이드 앱 개발
+- 사용기술
+    - Kotlin, Firebase(Crashlytics, App Distribution), Clean Architecture
+    - Network : Retrofit, OkHttp
+    - Architecture : Compose, Coroutine, AAC ViewModel + Databinding(MVVM), Hilt(DI)
+    - Library : Glide, Coil, Gson, Fastlane, Lottie
+
+
+
 ### 마카롱택시 기사님 (https://play.google.com/store/apps/details?id=kst.macaron.chauffeur)
 
 - 소속 : 케이에스티모빌리티
