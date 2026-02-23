@@ -20,7 +20,7 @@
 - 사용기술
     - Kotlin, Firebase(Crashlytics, App Distribution, RemoteConfig), Clean Architecture
     - Network : Retrofit, OkHttp
-    - Architecture : Compose, Coroutine, AAC ViewModel + Databinding(MVVM), Hilt(DI)
+    - Architecture : Compose, MVI(Reducer), Coroutine, AAC ViewModel + Databinding(MVVM), Hilt(DI)
     - Library : Glide, Coil, Gson, Fastlane, Lottie
 
 ![](https://github.com/snowpero/portfolio/blob/master/image/lookpin_1.png)
