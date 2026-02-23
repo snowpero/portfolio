@@ -19,6 +19,7 @@
 - 역할 : 안드로이드 앱 개발
 - 사용기술
     - Kotlin, Firebase(Crashlytics, App Distribution, RemoteConfig), Clean Architecture
+    - UI: Jetpack Compose + 일부 XML Layout 구조 혼용 
     - Network : Retrofit, OkHttp
     - Architecture : Compose, MVI(Reducer), Coroutine, AAC ViewModel + Databinding(MVVM), Hilt(DI)
     - Library : Glide, Coil, Gson, Fastlane, Lottie
