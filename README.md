@@ -24,13 +24,13 @@
     - Architecture : Compose, MVI(Reducer), Coroutine, AAC ViewModel + Databinding(MVVM), Hilt(DI)
     - Library : Glide, Coil, Gson, Fastlane, Lottie
 
-![](https://github.com/snowpero/portfolio/blob/master/image/lookpin_1.png)
-![](https://github.com/snowpero/portfolio/blob/master/image/lookpin_2.png)
-![](https://github.com/snowpero/portfolio/blob/master/image/lookpin_3.png)
-![](https://github.com/snowpero/portfolio/blob/master/image/lookpin_4.png)
-![](https://github.com/snowpero/portfolio/blob/master/image/lookpin_5.png)
-![](https://github.com/snowpero/portfolio/blob/master/image/lookpin_6.png)
-![](https://github.com/snowpero/portfolio/blob/master/image/lookpin_7.png)
+![](https://github.com/snowpero/portfolio/blob/master/image/lookpin_v2_1.png)
+![](https://github.com/snowpero/portfolio/blob/master/image/lookpin_v2_2.png)
+![](https://github.com/snowpero/portfolio/blob/master/image/lookpin_v2_3.png)
+![](https://github.com/snowpero/portfolio/blob/master/image/lookpin_v2_4.png)
+![](https://github.com/snowpero/portfolio/blob/master/image/lookpin_v2_5.png)
+![](https://github.com/snowpero/portfolio/blob/master/image/lookpin_v2_6.png)
+![](https://github.com/snowpero/portfolio/blob/master/image/lookpin_v2_7.png)
 
 
 ### 마카롱택시 기사님 (https://play.google.com/store/apps/details?id=kst.macaron.chauffeur)
