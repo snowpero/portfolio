@@ -24,6 +24,7 @@
     - Architecture : Compose, MVI(Reducer), Coroutine, AAC ViewModel + Databinding(MVVM), Hilt(DI)
     - Library : Glide, Coil, Gson, Fastlane, Lottie
     - Design : Figma + Style Dictionary
+    - AI : OpenCode
 
 ![](https://github.com/snowpero/portfolio/blob/master/image/lookpin_v2_1.png)
 ![](https://github.com/snowpero/portfolio/blob/master/image/lookpin_v2_2.png)
