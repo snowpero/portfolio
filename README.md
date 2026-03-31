@@ -10,7 +10,6 @@
 8. 삼성전자 DMC연구소 HomeScreen Launcher
 9. 일본 Sharp전자 VideoPlayer
 10. ETRI TAXEL - Haptic Editor
-11. 개인프로젝트
 
 # 프로젝트
 ### 룩핀 (https://play.google.com/store/apps/details?id=com.mozzet.lookpin)
