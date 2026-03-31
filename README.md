@@ -177,17 +177,3 @@ https://user-images.githubusercontent.com/9444173/132312701-ef60dfd7-dca9-4edf-b
 ![](https://github.com/snowpero/resume/blob/master/image/taxel_2.png)
 ![](https://github.com/snowpero/resume/blob/master/image/taxel_3.png)
 ![](https://github.com/snowpero/resume/blob/master/image/taxel_4.png)
- 
-### 개인프로젝트
-
-##### GrimMoa
- * 설명
-    * Ruby on rails를 이용해 웹 크롤링
-    *  커뮤니티의 사진 게시판을 크롤링 후 한꺼번에 모아서 보여줌
-    *  현재 스토어 비노출 처리
-    
-##### CoinBot (https://t.me/CoinNis_bot)
- * 설명
-    * 텔레그램 봇
-    * 재정거래를 위한 거래소간 가격차이 알람
-    * 코인 상장여부를 실시간으로 확인해서 알람
